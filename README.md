@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo: Natalia Ferrer</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Brilantico**
+- 🔭 I’m currently working on **Brilantico and Mingo Agency**
 
 - 🌱 I’m currently learning **React**
 
